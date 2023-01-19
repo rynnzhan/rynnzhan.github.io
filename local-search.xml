@@ -5,10 +5,10 @@
   
   <entry>
     <title>day_0 test_blog</title>
-    <link href="/2023/01/15/new-post/"/>
-    <url>/2023/01/15/new-post/</url>
+    <link href="/2023/01/19/new-post/"/>
+    <url>/2023/01/19/new-post/</url>
     
-    <content type="html"><![CDATA[<p>测试下图片的插入</p><p>这里插入一张图片</p><p><img src="/2023/01/15/new-post/20220618_230438.jpg" alt="ねる"></p><p>这里是第二张<br><img alt="ねるねる" src="/2023/01/15/new-post/20220618_230509.jpg"><br><br><br></p><p>这是第三张<br><img src="/2023/01/15/new-post/20220618_230514.jpg" alt="ねるねるねる"></p>]]></content>
+    <content type="html"><![CDATA[<p>Test Blog</p>]]></content>
     
     
     
